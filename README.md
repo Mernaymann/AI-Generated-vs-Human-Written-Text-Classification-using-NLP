@@ -1,4 +1,5 @@
 🤖 AI vs Human Text Classification (NLP Project)
+
 📌 Project Overview
 
 This project focuses on building a Natural Language Processing (NLP) binary classification model to detect whether a given text is AI-generated or human-written.

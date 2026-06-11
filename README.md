@@ -12,6 +12,7 @@ The dataset is publicly available on Kaggle and contains labeled text samples cl
 
 AI-generated text
 Human-written text
+
 ⚙️ Project Workflow
 1. Data Preprocessing
 Text cleaning (removing special characters, numbers, and noise)
@@ -29,12 +30,14 @@ Logistic Regression
 Accuracy score
 Performance comparison on test data
 Prediction on unseen text samples
+
 🧠 Technologies Used
 Python
 Pandas
 Scikit-learn
 Numpy
 NLP (Natural Language Processing)
+
 🚀 Results
 
 The models were trained and tested on unseen data, demonstrating effective classification of AI-generated vs human-written text. Logistic Regression showed better performance compared to Naive Bayes.
@@ -43,11 +46,13 @@ The models were trained and tested on unseen data, demonstrating effective class
 ├── notebook.ipynb
 ├── dataset.csv
 ├── README.md
+
 🎯 Key Learnings
 Text preprocessing techniques in NLP
 Bag-of-Words feature extraction
 Binary classification models
 Model evaluation and comparison
+
 📌 Author
 
 Merna Ayman

@@ -43,9 +43,13 @@ NLP (Natural Language Processing)
 The models were trained and tested on unseen data, demonstrating effective classification of AI-generated vs human-written text. Logistic Regression showed better performance compared to Naive Bayes.
 
 📁 Project Structure
+
 ├── notebook.ipynb
+
 ├── dataset.csv
+
 ├── README.md
+
 
 🎯 Key Learnings
 Text preprocessing techniques in NLP
